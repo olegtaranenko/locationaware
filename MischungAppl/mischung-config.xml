@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+  <db>
+    <Mischung>
+      <dbServer>DELAP3899</dbServer>
+      <dbName>mischung</dbName>
+      <dbUser>sa</dbUser>
+      <dbPassword></dbPassword>
+      <persistSecurityInfo>True</persistSecurityInfo>
+      <integratedSecurity>False</integratedSecurity>
+      <connectionLifetime>0</connectionLifetime>
+      <ReportPath>C:\Inetpub\wwwroot\MischungAppl\Reports</ReportPath>
+      <ReportExcelPath>C:\Inetpub\wwwroot\MischungAppl\ExcelFiles</ReportExcelPath>
+      <ReportExcelUri>http://localhost/MischungAppl/ExcelFiles/</ReportExcelUri>
+    </Mischung>
+  </db>
+</config>

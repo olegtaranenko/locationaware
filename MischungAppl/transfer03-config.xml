@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+  <db>
+    <Transfer03>
+      <dbServer>DELAP3899</dbServer>
+      <dbName>transfer03</dbName>
+      <dbUser>sa</dbUser>
+      <dbPassword></dbPassword>
+      <persistSecurityInfo>True</persistSecurityInfo>
+      <integratedSecurity>False</integratedSecurity>
+      <connectionLifetime>10001</connectionLifetime>
+    </Transfer03>
+  </db>
+</config>
