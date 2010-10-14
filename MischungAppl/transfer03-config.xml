@@ -2,7 +2,7 @@
 <config>
   <db>
     <Transfer03>
-      <dbServer>DELAP3899</dbServer>
+      <dbServer>TARANENKO</dbServer>
       <dbName>transfer03</dbName>
       <dbUser>sa</dbUser>
       <dbPassword></dbPassword>

@@ -2,7 +2,7 @@
 <config>
   <db>
     <Mischung>
-      <dbServer>DELAP3899</dbServer>
+      <dbServer>TARANENKO</dbServer>
       <dbName>mischung</dbName>
       <dbUser>sa</dbUser>
       <dbPassword></dbPassword>
