@@ -26,8 +26,8 @@ Public Class DBConnectionStringBuilder
     Public Function build(ByVal uid, ByVal pwd, ByVal server, ByVal db, ByVal connLifetime, ByVal integratedSec, ByVal persistSecInfo) As String
         Dim connString As String
 		connString = "initial catalog=" & db & ";Connection Lifetime=" & connLifetime & _
-					 ";persist security info=" & persistSecInfo & ";data source=" & server _
-					 & ";Network Library=DBMSSOCN"
+					 ";persist security info=" & persistSecInfo & ";data source=" & server
+					 '& ";Network Library=DBMSSOCN"
 
 
         If (integratedSec) Then
