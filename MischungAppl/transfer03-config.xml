@@ -2,8 +2,8 @@
 <config>
   <db>
     <Transfer03>
-      <dbServer>DELAP3899</dbServer>
-      <dbName>transfer03</dbName>
+      <dbServer>DELADB003</dbServer>
+      <dbName>transfer</dbName>
       <dbUser>sa</dbUser>
       <dbPassword></dbPassword>
       <persistSecurityInfo>True</persistSecurityInfo>
