@@ -2,11 +2,7 @@
 <config>
   <db>
     <Mischung>
-<<<<<<< HEAD
-      <dbServer>DEDB01</dbServer>
-=======
       <dbServer>localhost</dbServer>
->>>>>>> b2500bb2003af59333db3d833dd0d8b2b0295bdb
       <dbName>mischung</dbName>
       <dbUser>sa</dbUser>
       <dbPassword></dbPassword>
