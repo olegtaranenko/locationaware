@@ -2,8 +2,13 @@
 <config>
   <db>
     <Transfer03>
+<<<<<<< HEAD
       <dbServer>DELADB003</dbServer>
       <dbName>transfer</dbName>
+=======
+      <dbServer>localhost</dbServer>
+      <dbName>transfer03</dbName>
+>>>>>>> b2500bb2003af59333db3d833dd0d8b2b0295bdb
       <dbUser>sa</dbUser>
       <dbPassword></dbPassword>
       <persistSecurityInfo>True</persistSecurityInfo>
