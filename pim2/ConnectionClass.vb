@@ -6,7 +6,7 @@ Public Class ConnectionClass
 
     'connect string 
     Friend Const ConnectionString As String = "packet size=4096;" & _
-               "integrated security=SSPI;data source=deladb002;persist security info=False;initial catalog=pim;" & _
+               "integrated security=SSPI;data source=deladb002;persist security info=False;initial catalog=pimqa;" & _
                "Connection Lifetime=300"
 
     Friend SQLConnection As System.Data.SqlClient.SqlConnection
