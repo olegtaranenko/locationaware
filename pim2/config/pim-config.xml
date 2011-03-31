@@ -2,7 +2,7 @@
 <config>
   <db>
     <pim>
-      <dbServer>localhost</dbServer>
+      <dbServer>DELADB002</dbServer>
       <dbName>pim</dbName>
       <persistSecurityInfo>false</persistSecurityInfo>
       <integratedSecurity>true</integratedSecurity>
