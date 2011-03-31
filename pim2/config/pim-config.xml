@@ -4,8 +4,10 @@
     <pim>
       <dbServer>localhost</dbServer>
       <dbName>pim</dbName>
-      <persistSecurityInfo>false</persistSecurityInfo>
-      <integratedSecurity>true</integratedSecurity>
+      <dbUser>sa</dbUser>
+      <dbPassword></dbPassword>
+      <persistSecurityInfo>True</persistSecurityInfo>
+      <integratedSecurity>False</integratedSecurity>
       <connectionLifetime>300</connectionLifetime>
     </pim>
   </db>
