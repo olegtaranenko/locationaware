@@ -2,7 +2,7 @@
 <config>
   <db>
     <Mischung>
-      <dbServer>localhost</dbServer>
+      <dbServer>DEDB01</dbServer>
       <dbName>mischung</dbName>
       <dbUser>sa</dbUser>
       <dbPassword></dbPassword>
