@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+  <db>
+    <pim>
+      <dbServer>localhost</dbServer>
+      <dbName>pim</dbName>
+      <persistSecurityInfo>false</persistSecurityInfo>
+      <integratedSecurity>true</integratedSecurity>
+      <connectionLifetime>300</connectionLifetime>
+    </pim>
+  </db>
+</config>
