@@ -3,7 +3,7 @@
   <db>
     <pim>
       <dbServer>localhost</dbServer>
-      <dbName>pim</dbName>
+      <dbName>pimqa</dbName>
       <persistSecurityInfo>false</persistSecurityInfo>
       <integratedSecurity>true</integratedSecurity>
       <connectionLifetime>300</connectionLifetime>
