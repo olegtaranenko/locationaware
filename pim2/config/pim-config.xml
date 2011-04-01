@@ -2,12 +2,10 @@
 <config>
   <db>
     <pim>
-      <dbServer>localhost</dbServer>
+      <dbServer>DELAP3899</dbServer>
       <dbName>pim</dbName>
-      <dbUser>sa</dbUser>
-      <dbPassword></dbPassword>
-      <persistSecurityInfo>True</persistSecurityInfo>
-      <integratedSecurity>False</integratedSecurity>
+      <persistSecurityInfo>false</persistSecurityInfo>
+      <integratedSecurity>true</integratedSecurity>
       <connectionLifetime>300</connectionLifetime>
     </pim>
   </db>
